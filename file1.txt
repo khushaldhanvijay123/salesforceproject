@@ -7,4 +7,5 @@ this is sample file
 <h1> HELLO WORLD </h1>
 <input id="name" name = "name"/>
 <input id="password" name = "pass"/>
+<input id="submit" />
 </body>
