@@ -4,8 +4,10 @@ this is sample file
 <head>
 </head>
 <body>
+<form action="home.java">
 <h1> HELLO WORLD </h1>
 <input id="name" name = "name"/>
 <input id="password" name = "pass"/>
 <input id="submit" />
+</form>
 </body>
